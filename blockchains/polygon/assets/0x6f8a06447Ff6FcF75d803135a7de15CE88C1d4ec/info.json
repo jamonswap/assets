@@ -1,0 +1,44 @@
+{
+    "name": "SHIBA INU (PoS)",
+    "website": "shibatoken.com",
+    "description": "SHIBA Reward System.",
+    "explorer": "https://polygonscan.com/token/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+    "type": "POLYGON",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+		{
+            "name": "twitter",
+            "url": "https://twitter.com/shibtoken"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/SHIBArmy/"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/shibatoken_official/?utm_medium=copy_link"
+        },
+		{
+            "name": "telegram",
+            "url": "https://t.me/ShibaInu_Dogecoinkiller"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.com/invite/shibatoken"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/es/currencies/shiba-inu/"
+        },
+		{
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/shiba-inu"
+        }
+    ]
+}

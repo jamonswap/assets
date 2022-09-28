@@ -1,0 +1,40 @@
+{
+    "name": "JamonStakeLP",
+    "website": "jamonswap.finance",
+    "description": "JSTLP is a token of the jamonswap ecosystem.",
+    "explorer": "https://polygonscan.com/token/0x7aC7b850985be712fE0847C61166aC1792E9979E",
+    "type": "POLYGON",
+    "symbol": "JSTLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7aC7b850985be712fE0847C61166aC1792E9979E",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/jamonswap"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/jamonswap/"
+        },
+        {
+            "name": "telegram ES",
+            "url": "https://t.me/jamonswap"
+        },
+		{
+            "name": "telegram EN",
+            "url": "https://t.me/+4TWEeg5uQX02YTlk"
+        },
+		{
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/JamonSwap/"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/jamonswap/"
+        }
+    ]
+}

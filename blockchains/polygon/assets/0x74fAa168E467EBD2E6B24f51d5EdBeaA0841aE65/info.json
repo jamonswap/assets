@@ -1,0 +1,14 @@
+{
+    "name": "D-Skyscraper Game",
+    "website": "d-skyscraper.games",
+    "description": "DSG is a token of d-skyscraper",
+    "explorer": "https://polygonscan.com/token/0x74fAa168E467EBD2E6B24f51d5EdBeaA0841aE65",
+    "type": "POLYGON",
+    "symbol": "DSG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x74fAa168E467EBD2E6B24f51d5EdBeaA0841aE65",
+    "tags": [
+        "defi"
+    ]
+}

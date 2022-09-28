@@ -1,0 +1,40 @@
+{
+    "name": "Jamon-Peg USD",
+    "website": "jamonswap.finance",
+    "description": "JUSD is a token of the jamonswap ecosystem.",
+    "explorer": "https://polygonscan.com/token/0x4cA9700c20EeeF2B6a73Bb63c5eE7775eb7Da54A",
+    "type": "POLYGON",
+    "symbol": "JUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4cA9700c20EeeF2B6a73Bb63c5eE7775eb7Da54A",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/jamonswap"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/jamonswap/"
+        },
+        {
+            "name": "telegram ES",
+            "url": "https://t.me/jamonswap"
+        },
+		{
+            "name": "telegram EN",
+            "url": "https://t.me/+4TWEeg5uQX02YTlk"
+        },
+		{
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/JamonSwap/"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/jamonswap/"
+        }
+    ]
+}

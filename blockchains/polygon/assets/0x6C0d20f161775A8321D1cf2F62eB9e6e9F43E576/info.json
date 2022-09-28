@@ -1,0 +1,40 @@
+{
+    "name": "Jamon Fluid",
+    "website": "jamonswap.finance",
+    "description": "JFLU is a token of the jamonswap ecosystem.",
+    "explorer": "https://polygonscan.com/token/0x6C0d20f161775A8321D1cf2F62eB9e6e9F43E576",
+    "type": "POLYGON",
+    "symbol": "JFLU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6C0d20f161775A8321D1cf2F62eB9e6e9F43E576",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/jamonswap"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/jamonswap/"
+        },
+        {
+            "name": "telegram ES",
+            "url": "https://t.me/jamonswap"
+        },
+		{
+            "name": "telegram EN",
+            "url": "https://t.me/+4TWEeg5uQX02YTlk"
+        },
+		{
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/JamonSwap/"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/jamonswap/"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "ChainLink ERC677",
+    "website": "chain.link",
+    "description": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods.",
+    "explorer": "https://polygonscan.com/token/0xb0897686c545045aFc77CF20eC7A532E3120E0F1",
+    "type": "POLYGON",
+    "symbol": "LINKv2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb0897686c545045aFc77CF20eC7A532E3120E0F1",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+		{
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.com/invite/chainlink"
+        },
+		{
+            "name": "github",
+            "url": "https://github.com/smartcontractkit/chainlink"
+        },
+		{
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Chainlink/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/chainlinkofficial"
+        },
+		{
+            "name": "kakao",
+            "url": "https://open.kakao.com/o/gWXAAf0b"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/chainlink/"
+        },
+		{
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/chainlink"
+        }
+    ]
+}

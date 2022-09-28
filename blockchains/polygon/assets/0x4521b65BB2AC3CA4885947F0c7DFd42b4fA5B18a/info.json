@@ -1,0 +1,40 @@
+{
+    "name": "JamonShare",
+    "website": "jamonswap.finance",
+    "description": "J-SHARE is a token of the jamonswap ecosystem.",
+    "explorer": "https://polygonscan.com/token/0x4521b65BB2AC3CA4885947F0c7DFd42b4fA5B18a",
+    "type": "POLYGON",
+    "symbol": "J-SHARE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4521b65BB2AC3CA4885947F0c7DFd42b4fA5B18a",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/jamonswap"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/jamonswap/"
+        },
+        {
+            "name": "telegram ES",
+            "url": "https://t.me/jamonswap"
+        },
+		{
+            "name": "telegram EN",
+            "url": "https://t.me/+4TWEeg5uQX02YTlk"
+        },
+		{
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/JamonSwap/"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/jamonswap/"
+        }
+    ]
+}

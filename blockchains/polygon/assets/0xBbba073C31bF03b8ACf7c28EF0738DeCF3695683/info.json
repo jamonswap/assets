@@ -1,0 +1,72 @@
+{
+    "name": "SandBox",
+    "website": "sandbox.game",
+    "description": "The Sandbox is a decentralised, community-driven gaming ecosystem where creators can share and monetise voxel assets and gaming experiences on the Ethereum blockchain.",
+    "explorer": "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "type": "POLYGON",
+    "symbol": "SAND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+		{
+            "name": "twitter",
+            "url": "https://twitter.com/thesandboxgame"
+        },
+        {
+            "name": "docs",
+            "url": "https://sandboxgame.gitbook.io/the-sandbox/"
+        },
+		{
+            "name": "whitepaper",
+            "url": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf?_gl=1*ecg9za*_ga*MTEwMzc5MDMwMi4xNjY0MzY0NTIw*_ga_R0TLSXCC02*MTY2NDM2NDUyMC4xLjEuMTY2NDM2NDU1OS4wLjAuMA..&_ga=2.246766084.1254183174.1664364523-1103790302.1664364520"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/thesandboxgame"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/thought-farm"
+        },
+		{
+            "name": "instagram",
+            "url": "https://www.instagram.com/thesandboxgame/"
+        },
+		{
+            "name": "twitch",
+            "url": "https://www.twitch.tv/thesandboxgame"
+        },
+		{
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCzv1t7voB-bxMmXLysT4h0w"
+        },
+		{
+            "name": "facebook",
+            "url": "https://www.facebook.com/TheSandboxGame/"
+        },
+		{
+            "name": "medium",
+            "url": "https://medium.com/sandbox-game"
+        },
+		{
+            "name": "telegram",
+            "url": "https://t.me/sandboxgame"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.com/invite/vAe4zvY"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/es/currencies/the-sandbox/"
+        },
+		{
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/the-sandbox"
+        }
+    ]
+}

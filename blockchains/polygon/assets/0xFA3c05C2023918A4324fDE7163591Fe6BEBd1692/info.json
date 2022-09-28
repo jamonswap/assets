@@ -1,0 +1,48 @@
+{
+    "name": "Cresio",
+    "website": "cresio.es",
+    "description": "XCRE is a token of platform Cresio",
+    "explorer": "https://polygonscan.com/token/0xFA3c05C2023918A4324fDE7163591Fe6BEBd1692",
+    "type": "POLYGON",
+    "symbol": "XCRE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFA3c05C2023918A4324fDE7163591Fe6BEBd1692",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+		{
+            "name": "twitter",
+            "url": "https://twitter.com/CRESIOcoin"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/cresiocoin/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Cresio"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/cresio-internacional/"
+        },
+		{
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCLm0knZaVBHXl4c1SzDO6fg?view_as=subscriber"
+        },
+		{
+            "name": "whitepaper",
+            "url": "https://mega.nz/file/U3hmEQ5Y#9Usspp4LkOnMiru3UeM7hv2mGu6qlDGnwMAHW-2UcfQ"
+        },
+		{
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/cresio-internacional/"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/cresio.io/"
+        }
+    ]
+}

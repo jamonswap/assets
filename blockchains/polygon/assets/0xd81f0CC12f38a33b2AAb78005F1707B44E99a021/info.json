@@ -1,0 +1,28 @@
+{
+    "name": "Acorn Token Reward",
+    "website": "acorncasino.io",
+    "description": "ATR is a token reward of AcornCasino.",
+    "explorer": "https://polygonscan.com/token/0xd81f0CC12f38a33b2AAb78005F1707B44E99a021",
+    "type": "POLYGON",
+    "symbol": "ATR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd81f0CC12f38a33b2AAb78005F1707B44E99a021",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://mobile.twitter.com/acorncasino"
+        },
+        {
+            "name": "telegram ES",
+            "url": "https://t.me/Acorn_esp"
+        },
+		{
+            "name": "telegram EN",
+            "url": "https://t.me/ACORNCASINO"
+        }
+    ]
+}

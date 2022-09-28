@@ -1,0 +1,52 @@
+{
+    "name": "Sunflower Farm",
+    "website": "sunflower-farmers.com",
+    "description": "Farm, Gather, Cook, Raise Animals, Fish, Craft & Trade your NFTs in this RPG based farming simulator.",
+    "explorer": "https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0",
+    "type": "POLYGON",
+    "symbol": "SFF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdf9B4b57865B403e08c85568442f95c26b7896b0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+		{
+            "name": "twitter",
+            "url": "https://twitter.com/0xsunflowerland?lang=en"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.sunflower-land.com/getting-started/about"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/sunflower-land/sunflower-land"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/thought-farm"
+        },
+		{
+            "name": "opensea",
+            "url": "https://opensea.io/collection/sunflower-land-collectibles"
+        },
+		{
+            "name": "twitch",
+            "url": "https://www.twitch.tv/0xsunflowerstudios"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.com/invite/sunflowerland"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/sunflower-farm/"
+        },
+		{
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/sunflower-land"
+        }
+    ]
+}
