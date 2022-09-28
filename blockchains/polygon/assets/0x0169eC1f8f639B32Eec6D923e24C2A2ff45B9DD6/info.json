@@ -1,0 +1,48 @@
+{
+    "name": "Algebra Token",
+    "website": "algebra.finance",
+    "description": "Providing DEXs with the best concentrated liquidity solutions.",
+    "explorer": "https://polygonscan.com/token/0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+    "type": "POLYGON",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+		{
+            "name": "twitter",
+            "url": "https://twitter.com/CryptoAlgebra"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@crypto_algebra"
+        },
+		{
+            "name": "github",
+            "url": "https://github.com/cryptoalgebra"
+        },
+		{
+            "name": "telegram",
+            "url": "https://t.me/cryptoalgebra_chat"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.com/invite/MneScXrq6T"
+        },
+		{
+            "name": "youtube",
+            "url": "https://www.youtube.com/c/AlgebraDEX"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/es/currencies/algebra/"
+        },
+		{
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/algebra"
+        }
+    ]
+}
